@@ -1,0 +1,17 @@
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Negocio.deps.json
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Negocio.dll
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Negocio.pdb
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Datos.dll
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Entidades.dll
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Entidades.pdb
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\bin\Debug\net10.0\Datos.pdb
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.AssemblyInfo.cs
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.csproj.Up2Date
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.dll
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\refint\Negocio.dll
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\Negocio.pdb
+C:\Users\vchav\Desktop\SistemaVentas_MySQL\SistemaVentas\Negocio\obj\Debug\net10.0\ref\Negocio.dll
